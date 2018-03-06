@@ -1,9 +1,8 @@
 # Readme
 
-* Check out the developerworks article to understand the concept on how to enable Business Processes, Blockchain and Enterprise Content Management to work together.
+* Check out the developerworks article to understand the concept on how Blockchain, Business Processes, Decisions, and Enterprise Content Management can work together to create a complete solution to manage your business legal document workflow.
+https://www.ibm.com/developerworks/cloud/library/cl-use-blockchain-bpm-manage-legal-documents-letter-of-credit/
 
-* Make sure you complete the prerequisites before you move on, see section "What you need for this tutorial"
-   
    
 # License
 
